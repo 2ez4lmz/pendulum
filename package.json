@@ -1,0 +1,24 @@
+{
+  "name": "threejs-pendulum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/2ez4lmz/threejs-pendulum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/2ez4lmz/threejs-pendulum/issues"
+  },
+  "homepage": "https://gitlab.com/2ez4lmz/threejs-pendulum#readme",
+  "devDependencies": {
+    "@types/three": "^0.141.0",
+    "parcel": "^2.6.0",
+    "three": "^0.141.0"
+  }
+}
